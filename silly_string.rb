@@ -15,7 +15,7 @@ puts "Shannon".upcase
 
 phrase = "IM NOT SHOUTING".downcase
 
-lowercased_phrase = phrase # Put a . after phrase and use a String method.
+lowercased_phrase = phrase.downcase
 
 puts lowercased_phrase
 
